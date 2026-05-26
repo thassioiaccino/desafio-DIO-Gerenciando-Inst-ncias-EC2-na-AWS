@@ -1,12 +1,12 @@
 # Desafio AWS EC2 - DIO
 
-## 📌 Objetivo do Desafio
+# Objetivo do Desafio
 
 Este laboratório teve como objetivo praticar o gerenciamento de instâncias EC2 na AWS, além de compreender integrações entre serviços da plataforma, armazenamento e automações.
 
 ---
 
-# 🧠 Conceitos Aplicados
+# Conceitos Aplicados
 
 Durante a execução do laboratório foram utilizados conceitos importantes da AWS, como:
 
@@ -21,11 +21,11 @@ Durante a execução do laboratório foram utilizados conceitos importantes da A
 
 ---
 
-# 🏗️ Arquitetura Desenvolvida
+# Arquitetura Desenvolvida
 
 O diagrama abaixo representa a arquitetura criada durante o desafio.
 
-## Fluxo da aplicação
+# Fluxo da aplicação
 
 1. O usuário acessa o sistema SaaS.
 2. O SaaS realiza comunicação com a instância EC2.
@@ -37,7 +37,7 @@ O diagrama abaixo representa a arquitetura criada durante o desafio.
 
 ---
 
-# 📁 Estrutura do Repositório
+# Estrutura do Repositório
 
 ```bash
 /aws-ec2-desafio
@@ -49,42 +49,37 @@ O diagrama abaixo representa a arquitetura criada durante o desafio.
 │   ├── diagrama.png
 │   ├── ec2.png
 │   ├── security-group.png
-│   ├── volumes-ebs.png
-│   └── s3.png
+│   ├── USERS.png
 ```
 
 ---
 
-# 📸 Capturas de Tela
+# Capturas de Tela
 
 As imagens utilizadas durante o laboratório estão disponíveis na pasta `/images`.
 
 Exemplos:
 - Instância EC2 criada
-- Volumes EBS
-- Buckets S3
 - Configuração de segurança
-- Status dos serviços
+- Usuarios configurados
 
 ---
 
-# 🚀 Aprendizados
+# Aprendizados
 
 Durante o desenvolvimento deste desafio consegui aprofundar conhecimentos sobre:
 
 - Estruturação de ambientes na AWS
 - Relação entre EC2, EBS e S3
 - Estratégias de backup utilizando snapshots
-- Automação com Lambda
 - Organização de arquitetura em nuvem
 - Documentação técnica utilizando GitHub
 
 ---
 
-# 🛠️ Ferramentas Utilizadas
+# Ferramentas Utilizadas
 
 - AWS EC2
-- AWS Lambda
 - Amazon S3
 - Amazon S3 Glacier
 - Amazon EBS
@@ -94,6 +89,6 @@ Durante o desenvolvimento deste desafio consegui aprofundar conhecimentos sobre:
 
 ---
 
-# ✅ Conclusão
+# Conclusão
 
 Este desafio permitiu aplicar na prática conceitos fundamentais de computação em nuvem utilizando a AWS, além de reforçar conhecimentos sobre documentação técnica, arquitetura de serviços e versionamento com GitHub.
