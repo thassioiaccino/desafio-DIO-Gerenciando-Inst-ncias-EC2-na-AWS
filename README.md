@@ -56,7 +56,7 @@ O diagrama abaixo representa a arquitetura criada durante o desafio.
 
 # Capturas de Tela
 
-As imagens utilizadas durante o laboratório estão disponíveis na pasta `/images`.
+As imagens utilizadas durante a atividade estão disponíveis na pasta `/images`.
 
 Exemplos:
 - Instância EC2 criada
