@@ -2,13 +2,13 @@
 
 # Objetivo do Desafio
 
-Este laboratório teve como objetivo praticar o gerenciamento de instâncias EC2 na AWS, além de compreender integrações entre serviços da plataforma, armazenamento e automações.
+Este exercicio teve como objetivo praticar o gerenciamento de instâncias EC2 na AWS, tambem compreender integrações entre serviços da plataforma, armazenamento e automações.
 
 ---
 
 # Conceitos Aplicados
 
-Durante a execução do laboratório foram utilizados conceitos importantes da AWS, como:
+Durante a atividade foram utilizados conceitos importantes da AWS, como:
 
 - Criação e gerenciamento de instâncias EC2
 - Utilização de volumes EBS
@@ -40,10 +40,10 @@ O diagrama abaixo representa a arquitetura criada durante o desafio.
 # Estrutura do Repositório
 
 ```bash
-/aws-ec2-desafio
+/desafio-DIO-Gerenciando-Inst-ncias-EC2-na-AWS
 │
 ├── README.md
-├── arquitetura.drawio
+├── desafioDIO.drawio
 │
 ├── /images
 │   ├── diagrama.png
