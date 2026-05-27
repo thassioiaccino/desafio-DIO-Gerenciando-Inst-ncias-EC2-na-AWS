@@ -1,14 +1,14 @@
 # Desafio AWS EC2 - DIO
 
-# Objetivo do Desafio
+# Objetivo do Desafio:
 
 Este exercicio teve como objetivo praticar o gerenciamento de instâncias EC2 na AWS, tambem compreender integrações entre serviços da plataforma, armazenamento e automações.
 
 ---
 
-# Conceitos Aplicados
+# Conceitos Aplicados:
 
-Durante a atividade foram utilizados conceitos importantes da AWS, como:
+Durante a atividade foram utilizados conceitos importantes da AWS, como
 
 - Criação e gerenciamento de instâncias EC2
 - Utilização de volumes EBS
@@ -21,11 +21,11 @@ Durante a atividade foram utilizados conceitos importantes da AWS, como:
 
 ---
 
-# Arquitetura Desenvolvida
+# Arquitetura Desenvolvida:
 
 O diagrama abaixo representa a arquitetura criada durante o desafio.
 
-# Fluxo da aplicação
+# Fluxo da aplicação:
 
 1. O usuário acessa o sistema SaaS.
 2. O SaaS realiza comunicação com a instância EC2.
@@ -37,7 +37,7 @@ O diagrama abaixo representa a arquitetura criada durante o desafio.
 
 ---
 
-# Estrutura do Repositório
+# Estrutura do Repositório:
 
 ```bash
 /desafio-DIO-Gerenciando-Inst-ncias-EC2-na-AWS
@@ -54,7 +54,7 @@ O diagrama abaixo representa a arquitetura criada durante o desafio.
 
 ---
 
-# Capturas de Tela
+# Capturas de Tela:
 
 As imagens utilizadas durante a atividade estão disponíveis na pasta `/images`.
 
